@@ -1,0 +1,13 @@
+body{
+    background: url('./images/E16A9821-A699-4868-B0A5-B685567BCD56_1_105_c.jpeg');
+    background-size: 600px;
+}
+.box{
+    background-color: rgba(255, 255, 255, .4);
+    width: 50%;
+    height: 40vh;
+    margin: auto;
+    text-align: center;
+    border-radius: 2px;
+    font-size: 20px;
+}
